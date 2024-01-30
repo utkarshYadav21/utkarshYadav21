@@ -5,7 +5,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/utkarshYadav21?tab=repositories](https://github.com/utkarshYadav21?tab=repositories)
 
-- 💬 Ask me about **react**
+- 💬 Ask me about **Web Development**
 
 - 📫 How to reach me **utkarshyadav329@gmail.com**
 
