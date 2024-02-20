@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Utkarsh Yadav</h1>
 <h3 align="center">A passionate Web developer from India</h3>
 
-- 🌱 I’m currently learning **Mongodb and Nodejs**
+- 🌱 I’m currently learning **Tailwind CSS**
 
 - 👨‍💻 All of my projects are available at [https://github.com/utkarshYadav21?tab=repositories](https://github.com/utkarshYadav21?tab=repositories)
 
